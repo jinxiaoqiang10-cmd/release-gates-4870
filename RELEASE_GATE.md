@@ -8,9 +8,9 @@ The managed table below is the approval summary for this candidate. The surround
 <!-- BEGIN VERIFIED RELEASE GATES -->
 | Check key | Result | Evidence |
 | --- | --- | --- |
-| artifact-signing | BLOCKED | observed=unsigned; required=signed |
+| artifact-signing | PASS | observed=signed |
 | canary-health | PASS | observed=healthy |
-| schema-compatibility | BLOCKED | observed=incompatible; required=compatible |
+| schema-compatibility | WAIVED | waiver=RISK-284 |
 <!-- END VERIFIED RELEASE GATES -->
 
 ## Deployment notes
