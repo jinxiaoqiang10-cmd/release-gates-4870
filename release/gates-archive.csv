@@ -1,0 +1,4 @@
+check_key,observed_state,required_state,waiver_ticket
+artifact-signing,unsigned,signed,
+canary-health,degraded,healthy,
+legacy-migration,accepted-risk,complete,RISK-031
