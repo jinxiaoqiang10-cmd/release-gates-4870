@@ -1,0 +1,4 @@
+check_key,observed_state,required_state,waiver_ticket
+schema-compatibility,accepted-risk,compatible,RISK-284
+artifact-signing,signed,signed,
+canary-health,healthy,healthy,
